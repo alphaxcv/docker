@@ -1,1 +1,1 @@
-FROM tarogod/jsko
+FROM jfu888/kows
