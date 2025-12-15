@@ -1,1 +1,1 @@
-FROM jfu888/kows:latest
+FROM jfu888/wsd
